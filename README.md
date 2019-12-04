@@ -2,12 +2,12 @@
 
 Studying the effect of the 1979 Oil recession of USA on GSP using [Statewide Capital Productivity Data](http://people.stern.nyu.edu/wgreene/Econometrics/PanelDataSets.htm) of 48 states over 17 years(1970-1986).
 
+
 ## Getting Started
 
 ### Pre-Requistes
 
 You will need to have [Python 3](https://www.python.org) and [Jupyter Notebook](https://jupyter.org) installed in your local system. Once you have them installed, you can execute the .ipynb file by [running the jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
-
 
 ### Installing
 
@@ -18,11 +18,13 @@ pip install numpy
 pip install statsmodels
 ```
 
+
 ## Built With
 
 * [Pandas](https://pandas.pydata.org) - Python Data Analaysis Library
 * [NumPy](https://numpy.org) - Python Scientific Computing Library
 * [StatsModels](https://www.statsmodels.org/stable/index.html) - Python Statistics Library
+
 
 ## Authors
 
@@ -31,6 +33,7 @@ pip install statsmodels
 * **Sayali Paseband**
 * **Sanjana Patil**
 * **Rinda Sai Kiran Gunjala**
+
 
 ## Acknowledgments
 
